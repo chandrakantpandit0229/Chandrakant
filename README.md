@@ -16,7 +16,7 @@
 <a href="https://twitter.com/rahulpandit0229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulpandit0229" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chandrakant-pandit-9bbb5a151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrakant-pandit-9bbb5a151/" height="30" width="40" /></a>
 <a href="https://medium.com/@rahulpandit0229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahulpandit0229" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@chandrakant_pandit_0229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@chandrakant_pandit_0229" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/chandrakant_pandit_0229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chandrakant_pandit_0229" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
